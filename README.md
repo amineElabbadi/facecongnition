@@ -1,4 +1,4 @@
-Face Recongnition App : put URL and it find face in picture.
+Face Recongnition App : put URL and it detect faces in pictures.
 
 Front end of faceRecognitionBackend.
 
