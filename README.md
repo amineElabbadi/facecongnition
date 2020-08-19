@@ -6,6 +6,8 @@ BackEnd: Node.js
 
 Database: postgreSQL
 
+Deployment: Heroku
+
 
 Front end of faceRecognitionBackend.
 
